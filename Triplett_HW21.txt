@@ -1,0 +1,25 @@
+Name: Ike Triplett
+Program: Hands-On Exercises 6.4-6.7
+Date Modified: May 5, 2019
+
+.class		{
+			margin-left: 15px;
+			background-color: #B5F535;
+			position:relative;
+		}
+
+#id		{
+			position:fixed;
+			font-weight: bold;
+			background-color:#C7C9C2;
+			padding: 10px;
+		}
+
+ul		{
+			list-style-image: url(myimage.gif);
+		}
+
+
+ul2		{
+			list-style-type:Square;
+		}
